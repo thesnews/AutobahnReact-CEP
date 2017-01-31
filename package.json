@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaitoBezarius/AutobahnReact.git"
+    "url": "git@github.com:thesnews/AutobahnReact-CEP.git"
   },
   "keywords": [
     "react",
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/RaitoBezarius/AutobahnReact#readme",
   "dependencies": {
-    "autobahn": "^0.9.6",
+    "autobahn": "git@github.com:thesnews/autobahn-cep.git",
     "babel-runtime": "^5.6.15",
     "react": "^0.13.3"
   },
